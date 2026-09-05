@@ -49,13 +49,14 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 ## 🚀 This week
 
 <!-- WEEKLY_PROGRESS_START -->
-*Week 2026-W35 (2026-08-24 → 2026-08-30) · 3 projects updated*
+*Week 2026-W36 (2026-08-31 → 2026-09-06) · 4 projects updated*
 
-**🌿 Green Compass** — docs: import Magna carbon platform PRD and reference docs *(3 commits)*
-**🚀 Arksu** — feat(archive): add remix file health-utils.ts *(50 commits)*
-**🐍 Github Weekly Progress** — chore: 更新项目展示 2026-08-29 *(31 commits)*
+**🧠 LifeOS** — feat: add filesystem browser and hooks, update droid components *(1 commits)*
+**🚀 Arksu** — feat(archive): add arksus-yunzeanquan/docs/archive/modules/C1-数据决策模块/04-API接口.md *(50 commits)*
+**🐍 Github Weekly Progress** — scripts: add refresh-portfolio.sh for local Pi-driven weekly run *(42 commits)*
+**🌐 Digital Twin** — pi-service: rewrite /ask to spawn Claude Code instead of calling the API *(23 commits)*
 
-📄 [Full report →](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/weekly-reports/2026-W35.md)
+📄 [Full report →](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/weekly-reports/2026-W36.md)
 <!-- WEEKLY_PROGRESS_END -->
 
 ---
