@@ -49,12 +49,9 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 ## 🚀 This week
 
 <!-- WEEKLY_PROGRESS_START -->
-*Week 2026-W36 (2026-08-31 → 2026-09-06) · 4 projects updated*
+*Week 2026-W36 (2026-08-31 → 2026-09-06) · 1 project updated*
 
-**🧠 LifeOS** — feat: add filesystem browser and hooks, update droid components *(1 commits)*
-**🚀 Arksu** — feat(archive): add arksus-yunzeanquan/docs/archive/modules/C1-数据决策模块/04-API接口.md *(50 commits)*
 **🐍 Github Weekly Progress** — scripts: add refresh-portfolio.sh for local Pi-driven weekly run *(42 commits)*
-**🌐 Digital Twin** — pi-service: rewrite /ask to spawn Claude Code instead of calling the API *(23 commits)*
 
 📄 [Full report →](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/weekly-reports/2026-W36.md)
 <!-- WEEKLY_PROGRESS_END -->
@@ -81,9 +78,9 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 | **[🧠 LifeOS](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/lovable-life-hub.md)** | Event-driven personal OS — LLM-orchestrated workflows, Google Calendar / Notion integration | `TypeScript · React · Supabase` |
 | **[🌐 Digital Twin](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/my-digital-twin.md)** | Interactive portfolio — D3.js force-directed skill graph, i18n, Supabase | `TypeScript · React · D3.js` |
 | **[🤖 GitHub RAG Agent](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/mygithubprojectagent.md)** | RAG agent for private repo Q&A with automatic sensitive-data sanitization | `Python · RAG · LLM` |
-| **[📓 Obsidian Second Brain](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/obs-averivendell.md)** | Claude Code + Obsidian second-brain starter kit (PARA, Git, mobile access) | `JavaScript · Obsidian · Claude Code` |
+| **[📓 Obsidian Second Brain](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/obs-averivendell.md)** | Claude Code + Obsidian second-brain starter kit (PARA, Git, mobile access) | `Obsidian · Claude Code · MCP` |
 
-*auto-updated 2026-09-05 UTC*
+*auto-updated 2026-09-06 UTC*
 <!-- GITHUB_PROJECTS_END -->
 
 ---
@@ -93,11 +90,11 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 <!-- GITHUB_STATS_START -->
 <div align="center">
 
-![](https://img.shields.io/badge/Repos-4-58A6FF?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Followers-1-orange?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Top__Lang-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![](https://img.shields.io/badge/Active__90d-42_repos-3ECF8E?style=flat-square)
+![](https://img.shields.io/badge/Repos-4-58A6FF?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Followers-1-orange?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Top__Lang-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![](https://img.shields.io/badge/Active__90d-1_repos-3ECF8E?style=flat-square)
 
 </div>
 
-*auto-updated 2026-09-05 UTC*
+*auto-updated 2026-09-06 UTC*
 <!-- GITHUB_STATS_END -->
 
 ---
@@ -112,4 +109,4 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 
 ---
 
-*Last updated: <!-- LAST_UPDATED -->2026-09-05 01:00 UTC · [source](https://github.com/laiyinyizao007/github-weekly-progress)*
+*Last updated: <!-- LAST_UPDATED -->2026-09-06 05:29 UTC · [source](https://github.com/laiyinyizao007/github-weekly-progress)*
