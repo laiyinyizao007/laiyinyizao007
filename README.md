@@ -49,11 +49,10 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 ## 🚀 This week
 
 <!-- WEEKLY_PROGRESS_START -->
-*Week 2026-W36 (2026-08-31 → 2026-09-06) · 1 project updated*
+*Week 2026-W37 (2026-09-07 → 2026-09-13) · 0 projects updated*
 
-**🐍 Github Weekly Progress** — scripts: add refresh-portfolio.sh for local Pi-driven weekly run *(42 commits)*
 
-📄 [Full report →](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/weekly-reports/2026-W36.md)
+📄 [Full report →](https://github.com/laiyinyizao007/projectmanagement/blob/main/weekly-reports/2026-W37.md)
 <!-- WEEKLY_PROGRESS_END -->
 
 ---
@@ -65,22 +64,22 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[🌿 Green Compass](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/green-compass.md)** | Carbon footprint tracking and management platform | `TypeScript · React · Sustainability` |
-| **[🏥 Fidelity Craftsmen](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/fidelity-craftsmen.md)** | AI occupational health management SaaS (GBZ 188-2025 compliant) | `TypeScript · AI · Health` |
-| **[🔗 Pact Nexus Light](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/pact-nexus-light.md)** | Lightweight contract testing framework | `TypeScript · PostgreSQL · Testing` |
-| **[🎨 Atomic Craft UI](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/atomic-craft-ui.md)** | Atomic UI component library | `TypeScript · React · Design System` |
-| **[🚀 Arksu](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/arksu.md)** | Recently active project | `TypeScript` |
+| **[🌿 Green Compass](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/green-compass.md)** | Carbon footprint tracking and management platform | `TypeScript · React · Sustainability` |
+| **[🏥 Fidelity Craftsmen](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/fidelity-craftsmen.md)** | AI occupational health management SaaS (GBZ 188-2025 compliant) | `TypeScript · AI · Health` |
+| **[🔗 Pact Nexus Light](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/pact-nexus-light.md)** | Lightweight contract testing framework | `TypeScript · PostgreSQL · Testing` |
+| **[🎨 Atomic Craft UI](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/atomic-craft-ui.md)** | Atomic UI component library | `TypeScript · React · Design System` |
+| **[🚀 Arksu](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/arksu.md)** | Recently active project | `TypeScript` |
 
 **Personal**
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[🧠 LifeOS](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/lovable-life-hub.md)** | Event-driven personal OS — LLM-orchestrated workflows, Google Calendar / Notion integration | `TypeScript · React · Supabase` |
-| **[🌐 Digital Twin](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/my-digital-twin.md)** | Interactive portfolio — D3.js force-directed skill graph, i18n, Supabase | `TypeScript · React · D3.js` |
-| **[🤖 GitHub RAG Agent](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/mygithubprojectagent.md)** | RAG agent for private repo Q&A with automatic sensitive-data sanitization | `Python · RAG · LLM` |
-| **[📓 Obsidian Second Brain](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/obs-averivendell.md)** | Claude Code + Obsidian second-brain starter kit (PARA, Git, mobile access) | `Obsidian · Claude Code · MCP` |
+| **[🧠 LifeOS](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/lovable-life-hub.md)** | Event-driven personal OS — LLM-orchestrated workflows, Google Calendar / Notion integration | `TypeScript · React · Supabase` |
+| **[🌐 Digital Twin](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/my-digital-twin.md)** | Interactive portfolio — D3.js force-directed skill graph, i18n, Supabase | `TypeScript · React · D3.js` |
+| **[🤖 GitHub RAG Agent](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/mygithubprojectagent.md)** | RAG agent for private repo Q&A with automatic sensitive-data sanitization | `Python · RAG · LLM` |
+| **[📓 Obsidian Second Brain](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/obs-averivendell.md)** | Claude Code + Obsidian second-brain starter kit (PARA, Git, mobile access) | `Obsidian · Claude Code · MCP` |
 
-*auto-updated 2026-09-06 UTC*
+*auto-updated 2026-09-11 UTC*
 <!-- GITHUB_PROJECTS_END -->
 
 ---
@@ -90,11 +89,11 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 <!-- GITHUB_STATS_START -->
 <div align="center">
 
-![](https://img.shields.io/badge/Repos-4-58A6FF?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Followers-1-orange?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Top__Lang-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![](https://img.shields.io/badge/Active__90d-1_repos-3ECF8E?style=flat-square)
+![](https://img.shields.io/badge/Repos-5-58A6FF?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Followers-1-orange?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Top__Lang-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![](https://img.shields.io/badge/Active__90d-1_repos-3ECF8E?style=flat-square)
 
 </div>
 
-*auto-updated 2026-09-06 UTC*
+*auto-updated 2026-09-11 UTC*
 <!-- GITHUB_STATS_END -->
 
 ---
@@ -109,4 +108,4 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 
 ---
 
-*Last updated: <!-- LAST_UPDATED -->2026-09-06 05:29 UTC · [source](https://github.com/laiyinyizao007/github-weekly-progress)*
+*Last updated: <!-- LAST_UPDATED -->2026-09-11 08:01 UTC · [source](https://github.com/laiyinyizao007/projectmanagement)*
