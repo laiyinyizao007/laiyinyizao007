@@ -49,10 +49,14 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 ## 🚀 This week
 
 <!-- WEEKLY_PROGRESS_START -->
-*Week 2026-W37 (2026-09-07 → 2026-09-13) · 0 projects updated*
+*Week 2026-W38 (2026-09-14 → 2026-09-20) · 4 projects updated*
 
+**🧠 LifeOS** — chore: update dedup.py *(39 commits)*
+**📓 Obsidian Second Brain** — chore: update dedup.py *(38 commits)*
+**🚀 Arksu** — chore: update dedup.py *(50 commits)*
+**🌐 Digital Twin** — merge: lovable-sync UI updates into main *(40 commits)*
 
-📄 [Full report →](https://github.com/laiyinyizao007/projectmanagement/blob/main/weekly-reports/2026-W37.md)
+📄 [Full report →](https://github.com/laiyinyizao007/my-project-management/blob/main/weekly-reports/2026-W38.md)
 <!-- WEEKLY_PROGRESS_END -->
 
 ---
