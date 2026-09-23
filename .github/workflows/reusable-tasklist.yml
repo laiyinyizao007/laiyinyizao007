@@ -1,0 +1,23 @@
+name: Generate Issue Task List (Reusable)
+on:
+  workflow_call:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    env:
+      REPO: ${{ github.repository }}
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+      TITLE: ${{ github.event.issue.title }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: laiyinyizao007/my-project-management
+          sparse-checkout: .github/scripts
+          sparse-checkout-cone-mode: false
+          path: _source
+
+      - name: Generate and post task list
+        run: python3 _source/.github/scripts/generate_tasklist.py
