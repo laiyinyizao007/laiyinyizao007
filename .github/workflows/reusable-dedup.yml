@@ -1,0 +1,24 @@
+name: Detect Duplicate Issues (Reusable)
+on:
+  workflow_call:
+jobs:
+  dedup:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: laiyinyizao007/my-project-management
+          sparse-checkout: .github/scripts
+          sparse-checkout-cone-mode: false
+          path: _source
+
+      - name: Run duplicate detection
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          REPO: ${{ github.repository }}
+        run: python3 _source/.github/scripts/dedup.py
