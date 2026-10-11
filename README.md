@@ -49,12 +49,13 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 ## 🚀 This week
 
 <!-- WEEKLY_PROGRESS_START -->
-*Week 2026-W40 (2026-09-28 → 2026-10-04) · 2 projects updated*
+*Week 2026-W41 (2026-10-05 → 2026-10-11) · 3 projects updated*
 
-**🗂️ Project Management** — chore: 自动周报 2026-W39 *(1 commits)*
-**📦 laiyinyizao007** — chore: sync profile *(1 commits)*
+**📦 atomic-craft-ui** — Lovable update *(31 commits)*
+**📦 racknerdVPN** — fix: setup_xray_only.sh / xray_config.json 第三套 privateKey 修正 *(3 commits)*
+**📦 pixelclaw** — docs(smart-greet): PIN 自动解锁文档同步（SKILL + PROJECTWIKI + CHANGELOG） *(24 commits)*
 
-📄 [Full report →](https://github.com/laiyinyizao007/my-project-management/blob/main/weekly-reports/2026-W40.md)
+📄 [Full report →](https://github.com/laiyinyizao007/my-project-management/blob/main/weekly-reports/2026-W41.md)
 <!-- WEEKLY_PROGRESS_END -->
 
 ---
