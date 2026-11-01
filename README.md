@@ -49,14 +49,17 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 ## 🚀 This week
 
 <!-- WEEKLY_PROGRESS_START -->
-*Week 2026-W43 (2026-10-19 → 2026-10-25) · 4 projects updated*
+*Week 2026-W44 (2026-10-26 → 2026-11-01) · 7 projects updated*
 
-**📦 atomic-craft-ui** — fix: 补上 5564a87a 的代码审查发现（codex-code-reviewer 两轮复核） *(3 commits)*
-**📦 pixelclaw** — chore: 忽略运行期设备互斥锁 scenarios/.device_lock *(14 commits)*
-**📘 Atomic Craft Ui 5bcebc69** — fix: AdminLibrary 操作栏归位固定头部 + 文档解析补 catch *(6 commits)*
-**📘 Arksusdemo1** — chore: deploy generate_tasklist.py *(2 commits)*
+**📓 Obsidian Second Brain** — vault backup: 2026-10-30 08:39:08 *(42 commits)*
+**📦 resume-renew** — docs(resume): 同步基线版本清单至 v4，修正陈旧指针 *(3 commits)*
+**📦 racknerdVPN** — docs: 回填 ADR-009 关联提交 SHA *(13 commits)*
+**📘 Atomic Craft Ui 5bcebc69** — 对齐复购联动图样式 *(12 commits)*
+**⚡ Dsh Desktop** — chore: init .github *(22 commits)*
+**📦 Mnemon Memory** — chore: init .github *(11 commits)*
+**🐍 Claude Config** — fix(skills): 合并后修正脚本与参考文档内的相对路径 *(20 commits)*
 
-📄 [Full report →](https://github.com/laiyinyizao007/my-project-management/blob/main/weekly-reports/2026-W43.md)
+📄 [Full report →](https://github.com/laiyinyizao007/my-project-management/blob/main/weekly-reports/2026-W44.md)
 <!-- WEEKLY_PROGRESS_END -->
 
 ---
