@@ -49,10 +49,15 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 ## 🚀 This week
 
 <!-- WEEKLY_PROGRESS_START -->
-*Week 2026-W44 (2026-10-26 → 2026-11-01) · 0 projects updated*
+*Week 2026-W45 (2026-11-02 → 2026-11-08) · 5 projects updated*
 
+**🧠 LifeOS** — Merge pull request #44 from laiyinyizao007/docs/dsh-vision-root-cause-and-queue-q1-q11 *(25 commits)*
+**🤖 GitHub RAG Agent** — chore: init .github *(11 commits)*
+**📓 Obsidian Second Brain** — docs: 生成文档索引（按用途分组） *(4 commits)*
+**🚀 Arksu** — Merge remote-tracking branch 'arksusdemo1/wj' into wj *(13 commits)*
+**🐍 Github Weekly Progress** — chore: deploy generate_tasklist.py *(3 commits)*
 
-📄 [Full report →](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/weekly-reports/2026-W44.md)
+📄 [Full report →](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/weekly-reports/2026-W45.md)
 <!-- WEEKLY_PROGRESS_END -->
 
 ---
