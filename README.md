@@ -49,17 +49,10 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 ## 🚀 This week
 
 <!-- WEEKLY_PROGRESS_START -->
-*Week 2026-W44 (2026-10-26 → 2026-11-01) · 7 projects updated*
+*Week 2026-W44 (2026-10-26 → 2026-11-01) · 0 projects updated*
 
-**📓 Obsidian Second Brain** — vault backup: 2026-10-30 08:39:08 *(42 commits)*
-**📦 resume-renew** — docs(resume): 同步基线版本清单至 v4，修正陈旧指针 *(3 commits)*
-**📦 racknerdVPN** — docs: 回填 ADR-009 关联提交 SHA *(13 commits)*
-**📘 Atomic Craft Ui 5bcebc69** — 对齐复购联动图样式 *(12 commits)*
-**⚡ Dsh Desktop** — chore: init .github *(22 commits)*
-**📦 Mnemon Memory** — chore: init .github *(11 commits)*
-**🐍 Claude Config** — fix(skills): 合并后修正脚本与参考文档内的相对路径 *(20 commits)*
 
-📄 [Full report →](https://github.com/laiyinyizao007/my-project-management/blob/main/weekly-reports/2026-W44.md)
+📄 [Full report →](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/weekly-reports/2026-W44.md)
 <!-- WEEKLY_PROGRESS_END -->
 
 ---
@@ -71,22 +64,22 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[🌿 Green Compass](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/green-compass.md)** | Carbon footprint tracking and management platform | `TypeScript · React · Sustainability` |
-| **[🏥 Fidelity Craftsmen](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/fidelity-craftsmen.md)** | AI occupational health management SaaS (GBZ 188-2025 compliant) | `TypeScript · AI · Health` |
-| **[🔗 Pact Nexus Light](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/pact-nexus-light.md)** | Lightweight contract testing framework | `TypeScript · PostgreSQL · Testing` |
-| **[🎨 Atomic Craft UI](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/atomic-craft-ui.md)** | Atomic UI component library | `TypeScript · React · Design System` |
-| **[🚀 Arksu](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/arksu.md)** | Recently active project | `TypeScript` |
+| **[🌿 Green Compass](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/green-compass.md)** | Carbon footprint tracking and management platform | `TypeScript · React · Sustainability` |
+| **[🏥 Fidelity Craftsmen](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/fidelity-craftsmen.md)** | AI occupational health management SaaS (GBZ 188-2025 compliant) | `TypeScript · AI · Health` |
+| **[🔗 Pact Nexus Light](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/pact-nexus-light.md)** | Lightweight contract testing framework | `TypeScript · PostgreSQL · Testing` |
+| **[🎨 Atomic Craft UI](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/atomic-craft-ui.md)** | Atomic UI component library | `TypeScript · React · Design System` |
+| **[🚀 Arksu](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/arksu.md)** | Recently active project | `TypeScript` |
 
 **Personal**
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[🧠 LifeOS](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/lovable-life-hub.md)** | Event-driven personal OS — LLM-orchestrated workflows, Google Calendar / Notion integration | `TypeScript · React · Supabase` |
-| **[🌐 Digital Twin](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/my-digital-twin.md)** | Interactive portfolio — D3.js force-directed skill graph, i18n, Supabase | `TypeScript · React · D3.js` |
-| **[🤖 GitHub RAG Agent](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/mygithubprojectagent.md)** | RAG agent for private repo Q&A with automatic sensitive-data sanitization | `Python · RAG · LLM` |
-| **[📓 Obsidian Second Brain](https://github.com/laiyinyizao007/projectmanagement/blob/main/projects/obs-averivendell.md)** | Claude Code + Obsidian second-brain starter kit (PARA, Git, mobile access) | `Obsidian · Claude Code · MCP` |
+| **[🧠 LifeOS](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/lovable-life-hub.md)** | Event-driven personal OS — LLM-orchestrated workflows, Google Calendar / Notion integration | `TypeScript · React · Supabase` |
+| **[🌐 Digital Twin](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/my-digital-twin.md)** | Interactive portfolio — D3.js force-directed skill graph, i18n, Supabase | `TypeScript · React · D3.js` |
+| **[🤖 GitHub RAG Agent](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/mygithubprojectagent.md)** | RAG agent for private repo Q&A with automatic sensitive-data sanitization | `Python · RAG · LLM` |
+| **[📓 Obsidian Second Brain](https://github.com/laiyinyizao007/github-weekly-progress/blob/main/projects/obs-averivendell.md)** | Claude Code + Obsidian second-brain starter kit (PARA, Git, mobile access) | `JavaScript · Obsidian · Claude Code` |
 
-*auto-updated 2026-09-11 UTC*
+*auto-updated 2026-11-07 UTC*
 <!-- GITHUB_PROJECTS_END -->
 
 ---
@@ -96,11 +89,11 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 <!-- GITHUB_STATS_START -->
 <div align="center">
 
-![](https://img.shields.io/badge/Repos-5-58A6FF?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Followers-1-orange?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Top__Lang-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![](https://img.shields.io/badge/Active__90d-1_repos-3ECF8E?style=flat-square)
+![](https://img.shields.io/badge/Repos-14-58A6FF?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Followers-0-orange?style=flat-square&logo=github&logoColor=white)  ![](https://img.shields.io/badge/Top__Lang-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![](https://img.shields.io/badge/Active__90d-115_repos-3ECF8E?style=flat-square)
 
 </div>
 
-*auto-updated 2026-09-11 UTC*
+*auto-updated 2026-11-07 UTC*
 <!-- GITHUB_STATS_END -->
 
 ---
@@ -115,4 +108,4 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 
 ---
 
-*Last updated: <!-- LAST_UPDATED -->2026-09-11 08:01 UTC · [source](https://github.com/laiyinyizao007/projectmanagement)*
+*Last updated: <!-- LAST_UPDATED -->2026-11-07 01:00 UTC · [source](https://github.com/laiyinyizao007/github-weekly-progress)*
