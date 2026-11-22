@@ -49,125 +49,16 @@ Architecture taught constraint satisfaction. PM work taught product judgment. Th
 ## 🚀 This week
 
 <!-- WEEKLY_PROGRESS_START -->
-*Week 2026-W46 (2026-11-09 → 2026-11-15) · 115 projects updated*
+*Week 2026-W47 (2026-11-16 → 2026-11-22) · 6 projects updated*
 
-**🧠 LifeOS** — fix(dsh): M7 动态预算裁剪——回合超时按云端真实剩余预算收紧 *(35 commits)*
-**🤖 GitHub RAG Agent** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📓 Obsidian Second Brain** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🚀 Arksu** — merge: 同步 arksusdemo1/wj 的 Lovable 更新（2026-11-09） *(12 commits)*
-**🗂️ Project Management** — fix: 全量刷新的时间标记等成功后再写（补上 auto-mode 那半段） *(29 commits)*
-**🌐 Digital Twin** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 averivendell-projects** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 atomic-craft-ui** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 arksus-yunzeanquan** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 AIslave** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 260131patent** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 20260405approval-ment-main** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 20260131sdcard** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 vpn-device-manager** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 telegram** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 wewe-rss-data** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 system-blueprint-studio** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 wechat-bot** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 SolidGPT** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 rules_template** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 stagegate-flow-45** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 prismtek-atomic-ui** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 redroid-manager** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 wechat-ingest** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 openclaw-backup-20260414** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 openclaw-custom-api** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 test-api** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 obsidian-mcp-docker** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 n8n-workflows** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 minesweeper-multiplayer** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 merge-workspace** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 lifeOS** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 jobsearch** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 laiyinyizao007** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 green-compass-net** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 Hardware** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 esp32-s3-sense-homeassistant-autodiary** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 openclawinlifeos** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 duplicati-range** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 dotfiles-private** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 Claude-Code-Zen-mcp-Skill-Work** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 civic-mind2** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 claude-code-skills** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 awesome-claude-code-subagents** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 claude** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 awesome-claude-code** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 averypiopenclaw** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 MediaCrawler** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 redroid-agent** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 resume-renew** — chore: deploy sync-notion-board.yml.disabled *(8 commits)*
-**📦 racknerdVPN** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 pi-monitor** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 pixelclaw** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 clarity-briefing-hub** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 averypi-obsidian** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 homeassistant-manager** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 averivendell-others** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 tools** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 Antigravity-Manager** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 pixelclaw-pilot** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Fork Pywxdump** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📘 Atomic Craft Ui 5bcebc69** — fix: 意向不再被当成工单统计与展示（首页例外、客户端工单列表） *(38 commits)*
-**📘 Arksusdemo1** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**⚡ Dsh Desktop** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 Mnemon Memory** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Claude Config** — chore: link.ps1 改存 UTF-8 BOM 以兼容 PowerShell 5.1，忽略 skills/synced/，收录本次合并计划 *(12 commits)*
-**⚡ Dsh Desktop Responsive** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 Autodiary** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**⚡ Dsh Messenger Gateway** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**⚡ Dsh Audio Keepalive** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐹 Xiaohongshu Mcp** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 Xiao Speech2chatgpt Local** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**⚙️ Xiao Esp32s3 Sense** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**📦 Wsl Env** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**🐍 Video Remix** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**🐍 Test Codex** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**🐍 Sleepless Agent Local** — chore: deploy sync-notion-board.yml.disabled *(5 commits)*
-**🐚 Research Archives** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📘 Remix Of Carbon Compass** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Portfolio** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 Notion Integration** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Notion Analysis** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Mp4resolve** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Minutes Local** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📘 Mimo2codex Local** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐚 Migration Scripts** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 Memory Tests** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 Lisahost** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Light Ai** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Klugai Codex Proxy** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**⚡ Game Tank Local** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Feishu Sync** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Employee Assessment Table** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**⚙️ Diary1.0** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 Codex Cc Arksus** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📘 Carbon Compass** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 Bailian Speech Demo Local** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🎨 Avery Pixel Cv** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Autodiary Main** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**⚙️ Autodiary Autodiary** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**📦 Autodiary Archive** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Api Tester** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Ai Workspace** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Github Profile Manager** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Ffuf Claude Skill** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**⚡ Dell Control** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐚 Cc On Lifeos** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Github Weekly Progress** — chore: deploy sync-notion-board.yml.disabled *(7 commits)*
-**🐍 Invest** — Merge pull request #45 from laiyinyizao007/fix/38-no-change-conclusion-line *(50 commits)*
-**📘 Pixel Petal Review** — 改为面包屑样式 *(8 commits)*
-**📦 Handover Docs** — final: v3.56 派生（全局复查原负责人待办） *(50 commits)*
-**⚡ Capital Generation** — chore: init .github *(17 commits)*
-**📦 Superagent Playground** — chore: init .github *(13 commits)*
-**⚡ Dsh Remote** — chore: init .github *(37 commits)*
-**⚡ Projecthub** — chore: deploy sync-notion-board.yml.disabled *(17 commits)*
+**🐍 Claude Config** — docs(dataelem-prd): 推送流程固化为五步定位目录，示例命令补 -ParentNode *(9 commits)*
+**⚡ Dsh Desktop Responsive** — Merge PR #6: open the phone drawer on hosts whose sidebar toggle has no marker (0.2.1) *(6 commits)*
+**🐍 Feishu Sync** — feat(push): 新建文档强制 -ParentNode，杜绝平铺 (ref #10) (#11) *(8 commits)*
+**🐍 Invest** — Merge pull request #58 from laiyinyizao007/fix/57-approval-stdin-and-research-profile *(25 commits)*
+**⚡ Awesome Dsh Plugin** — chore: init .github *(49 commits)*
+**📘 Screenshot Match** — chore: init .github *(15 commits)*
 
-📄 [Full report →](https://github.com/laiyinyizao007/my-project-management/blob/main/weekly-reports/2026-W46.md)
+📄 [Full report →](https://github.com/laiyinyizao007/my-project-management/blob/main/weekly-reports/2026-W47.md)
 <!-- WEEKLY_PROGRESS_END -->
 
 ---
